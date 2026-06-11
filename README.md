@@ -25,8 +25,8 @@ Indicadores Gerados
 
 O script responde automaticamente a perguntas cruciais de negócios:
  Qual o Faturamento Total e o Lucro Líquido da empresa no período?
- .Qual o Ticket Médio gasto por transação?
- .Qual região gera maior receita?
+ Qual o Ticket Médio gasto por transação?
+ Qual região gera maior receita?
 
 
 Para executar o miniprojeto clone o repositório, instale a biblioteca pandas e rode cada célula(notebook) do arquivo analise_vendas.ipynb

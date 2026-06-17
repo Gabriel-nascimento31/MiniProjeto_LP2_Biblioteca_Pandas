@@ -29,4 +29,4 @@ O script responde automaticamente a perguntas cruciais de negócios:
  Qual região gera maior receita?
 
 
-Para executar o miniprojeto clone o repositório, instale a biblioteca pandas e rode cada célula(notebook) do arquivo analise_vendas.ipynb
+Para executar o miniprojeto clone o repositório, instale as bibliotecas pandas e matplotlib e rode cada célula(notebook) do arquivo analise_vendas.ipynb
